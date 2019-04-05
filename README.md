@@ -6,6 +6,7 @@ On Windows you can do this from the command prompt by typing the following comma
 (You will need to have pip installed)
 
 ```pip install mouse```
+
 ```pip install keyboard```
 
 Clicking anywhere on the screen will give you the mouse coordinates.
